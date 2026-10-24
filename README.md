@@ -1,6 +1,10 @@
 # U2-Pr-cticas-de-lenguajes-de-interfaz
--Lenguajes de interfaz/n
--Nombre: Gonzalez Beltran Jose David/n 
--Unidad 2/n
--Docente:  Docente: Dr. José Luis Medina Jiménez/n
+-Lenguajes de interfaz
+
+-Nombre: Gonzalez Beltran Jose David
+
+-Unidad 2
+
+-Docente:  Docente: Dr. José Luis Medina Jiménez
+
 -Horario: 9:00-10:00 
