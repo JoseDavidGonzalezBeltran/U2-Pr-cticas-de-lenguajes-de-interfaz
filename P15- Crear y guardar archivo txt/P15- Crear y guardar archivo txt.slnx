@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="P15- Crear y guardar archivo txt/P15- Crear y guardar archivo txt.vcxproj" />
+</Solution>

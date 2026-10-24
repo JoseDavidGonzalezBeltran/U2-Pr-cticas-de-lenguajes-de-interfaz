@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ciclo loop/ciclo loop.vcxproj" Id="ea4b9362-348f-47d9-9d63-1b0f441c0e9b" />
+</Solution>

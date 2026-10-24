@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\P1-Ciclos numericos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F4CFC-DFFB-455B-9D90-0C35C8EC8636}|P1-Ciclos numericos\\P1-Ciclos numericos.vcxproj|C:\\Users\\david\\source\\repos\\P1-Ciclos numericos\\P1-Ciclos numericos\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA0F4CFC-DFFB-455B-9D90-0C35C8EC8636}|P1-Ciclos numericos\\P1-Ciclos numericos.vcxproj|solutionrelative:P1-Ciclos numericos\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ensamblador.asm",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\P1-Ciclos numericos\\P1-Ciclos numericos\\Ensamblador.asm",
+              "RelativeDocumentMoniker": "P1-Ciclos numericos\\Ensamblador.asm",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\P1-Ciclos numericos\\P1-Ciclos numericos\\Ensamblador.asm",
+              "RelativeToolTip": "P1-Ciclos numericos\\Ensamblador.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-20T01:39:10.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

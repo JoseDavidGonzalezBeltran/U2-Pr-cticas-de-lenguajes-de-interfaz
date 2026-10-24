@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\P11-PushYpop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB48F24-8E6E-4AE8-9F23-049A68C577CA}|P11-PushYpop\\P11-PushYpop.vcxproj|C:\\Users\\david\\source\\repos\\P11-PushYpop\\P11-PushYpop\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3BB48F24-8E6E-4AE8-9F23-049A68C577CA}|P11-PushYpop\\P11-PushYpop.vcxproj|solutionrelative:P11-PushYpop\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ensamblador.asm",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\P11-PushYpop\\P11-PushYpop\\Ensamblador.asm",
+              "RelativeDocumentMoniker": "P11-PushYpop\\Ensamblador.asm",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\P11-PushYpop\\P11-PushYpop\\Ensamblador.asm",
+              "RelativeToolTip": "P11-PushYpop\\Ensamblador.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-20T05:53:59.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

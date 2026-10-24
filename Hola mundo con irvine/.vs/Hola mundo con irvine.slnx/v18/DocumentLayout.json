@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\Hola mundo con irvine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9355BE-BA77-4063-B465-59C8347C0B30}|Hola mundo con irvine\\Hola mundo con irvine.vcxproj|C:\\Users\\david\\source\\repos\\Hola mundo con irvine\\Hola mundo con irvine\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5F9355BE-BA77-4063-B465-59C8347C0B30}|Hola mundo con irvine\\Hola mundo con irvine.vcxproj|solutionrelative:Hola mundo con irvine\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ensamblador.asm",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Hola mundo con irvine\\Hola mundo con irvine\\Ensamblador.asm",
+              "RelativeDocumentMoniker": "Hola mundo con irvine\\Ensamblador.asm",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Hola mundo con irvine\\Hola mundo con irvine\\Ensamblador.asm",
+              "RelativeToolTip": "Hola mundo con irvine\\Ensamblador.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-20T04:59:55.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

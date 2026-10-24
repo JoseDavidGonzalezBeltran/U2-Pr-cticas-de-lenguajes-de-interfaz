@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="P11-PushYpop/P11-PushYpop.vcxproj" Id="3bb48f24-8e6e-4ae8-9f23-049a68c577ca" />
+</Solution>

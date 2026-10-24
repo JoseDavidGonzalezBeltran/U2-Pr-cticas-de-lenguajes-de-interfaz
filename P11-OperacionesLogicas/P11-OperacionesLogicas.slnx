@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="P11-OperacionesLogicas/P11-OperacionesLogicas.vcxproj" Id="f094d751-982a-498c-992b-15fefb0d3c42" />
+</Solution>

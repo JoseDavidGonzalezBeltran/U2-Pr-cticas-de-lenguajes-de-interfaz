@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="P11-Operaciones aritmeticas/P11-Operaciones aritmeticas.vcxproj" Id="64ab6470-a15a-40e8-8ec0-3b3935f9f8b7" />
+</Solution>

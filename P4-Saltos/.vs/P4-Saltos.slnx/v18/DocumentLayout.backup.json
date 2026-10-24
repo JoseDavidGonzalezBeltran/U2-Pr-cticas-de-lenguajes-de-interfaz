@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\P4-Saltos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9BEAE7-2DBC-405D-B433-426C616D51E0}|P4-Saltos\\P4-Saltos.vcxproj|C:\\Users\\david\\source\\repos\\P4-Saltos\\P4-Saltos\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B9BEAE7-2DBC-405D-B433-426C616D51E0}|P4-Saltos\\P4-Saltos.vcxproj|solutionrelative:P4-Saltos\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ensamblador.asm",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\P4-Saltos\\P4-Saltos\\Ensamblador.asm",
+              "RelativeDocumentMoniker": "P4-Saltos\\Ensamblador.asm",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\P4-Saltos\\P4-Saltos\\Ensamblador.asm",
+              "RelativeToolTip": "P4-Saltos\\Ensamblador.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-20T05:56:34.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
